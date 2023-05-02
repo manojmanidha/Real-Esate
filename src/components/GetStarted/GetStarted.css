@@ -1,0 +1,22 @@
+.inner-container{
+    gap: 1.5rem;
+    background-color: #4161df;
+    border-radius: 5px;
+    border: 6px solid #5d77d6;
+    text-align: center;
+    padding: 2rem;
+}
+.inner-container .primaryText{
+    font-weight: 600;
+    color: white;
+}
+.inner-container .secondaryText{
+    color: rgb(227, 222, 222)
+}
+
+.inner-container .button{
+    background-color: #5a73d7;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+}
